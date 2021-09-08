@@ -17,5 +17,5 @@
 - https://8thlight.com/blog/
 - https://blog.takipi.com/?category=all
 - https://blog.zvestov.cz/ (CZ)
-- http://engineering.indeedblog.com
+- https://medium.com/indeed-engineering/engineering/home
 - https://developers.redhat.com/blog
