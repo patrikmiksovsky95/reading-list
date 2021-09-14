@@ -1,6 +1,7 @@
 > Great people are active in self-learning.
 
 # Top picks of programming principles
+- http://codebetter.com/
 - https://medium.freecodecamp.org
 - http://softwareengineeringdaily.com
 - https://martinfowler.com
