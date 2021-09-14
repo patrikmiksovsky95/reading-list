@@ -2,6 +2,7 @@
 
 # Top picks of programming principles
 - http://codebetter.com/
+- https://blog.codinghorror.com/
 - https://medium.freecodecamp.org
 - http://softwareengineeringdaily.com
 - https://martinfowler.com
